@@ -1,0 +1,11 @@
+{
+  "name": "radio",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.5",
+    "serialport": "^5.0.0"
+  }
+}
